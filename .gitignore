@@ -1,0 +1,10 @@
+# 工程文件与目录
+*.iml
+**/.settings/**
+.project
+**/.idea/**
+
+# 编译结果target
+**/target/**
+**/out/**
+**/build/**
