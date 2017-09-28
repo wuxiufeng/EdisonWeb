@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EdisonWeb.iml" filepath="$PROJECT_DIR$/EdisonWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edisonwebspringmvc.iml" filepath="$PROJECT_DIR$/edisonwebspringmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
 </project>
